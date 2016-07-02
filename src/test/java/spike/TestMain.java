@@ -10,7 +10,6 @@ public class TestMain{
 	assertTrue(3+4==7);
 	assertTrue(2+2==4);
 	assertTrue(5+4==9);
-	assertTrue(1+1==2);
 }
 
 }
