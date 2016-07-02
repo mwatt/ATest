@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class TestMain{
 
 @Test public void test(){
-	assertTrue(true);
+	assertTrue(2+2==4);
 }
 
 }
